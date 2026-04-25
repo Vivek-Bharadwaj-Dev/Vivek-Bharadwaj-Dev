@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Vivek!<br><br>🔭 I’m currently working on Worklance Project.<br>💬 Ask me about Web development related stuff.<br>📫 How to reach me: Twitter - @Vivek1Bharadwaj, LinkedIn - @vivekbharadwaj<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably Travelling and chilling with my friends.
+Hi there 👋<br><br>Nice meeting you, I'm Vivek!<br><br>🔭 I’m currently working on Worklance Project.<br>💬 Ask me about Web development related stuff.<br>📫 How to reach me: Twitter - @Vivek1Bharadwaj, LinkedIn - @vivek-bharadwaj-dev<br>😄 Pronouns: He/His<br>⚡ Fun fact: If I am not coding then I am probably Travelling and chilling with my friends.
 
 
 ## 🌐 Socials:
